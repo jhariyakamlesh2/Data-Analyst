@@ -1,5 +1,4 @@
-#Data AnaList 
-# 👋 Hi, I'm [Kamlesh Kumar Jhariya]
+ # 👋 Hi, I'm [Kamlesh Kumar Jhariya]
 
 🎯 **Data Analyst | Excel • SQL • Python • Power BI • Tableau**
 
